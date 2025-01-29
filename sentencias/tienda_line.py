@@ -1,4 +1,3 @@
-
 compra = int(input("Monto de tu compra:"))
 miembro = input("Eres miembro (si/no)")
 descuento = 0
