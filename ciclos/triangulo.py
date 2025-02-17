@@ -1,3 +1,4 @@
+print("Triángulo simetrico")
 
 filas = int(input("Proporciona un total de filas: "))
 
