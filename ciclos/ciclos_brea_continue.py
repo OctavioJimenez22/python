@@ -11,7 +11,7 @@ for numero in range(1,10):
    
 #Ejemplo con conitnue
 print("\nPalabra continue:")
-for numero in range(1,9):
+for numero in range(1,20):
     if numero %2 ==1:  #número impar
         continue    #continua con las repeticiones
     print(numero) # numeros pares
